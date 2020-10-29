@@ -12,6 +12,7 @@
 #include <SFML/System.hpp>
 #include <mutex>
 #include <thread>
+#include <condition_variable>
 #define BACKGROUND_THREADS
 
 class ClientUDP;
