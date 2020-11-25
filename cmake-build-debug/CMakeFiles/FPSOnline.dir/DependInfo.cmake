@@ -4,37 +4,41 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Bonus.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Bonus.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Button.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Button.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Camera.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Camera.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Circle2D.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Circle2D.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/ClientUDP.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/ClientUDP.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Enemy.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Enemy.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/GeneticAlgorithm.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/GeneticAlgorithm.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Menu.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Menu.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/MsgType.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/MsgType.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/NeuralNetwork.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/NeuralNetwork.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Object2D.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Object2D.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/OptimizedBots.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/OptimizedBots.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Player.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Player.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Point2D.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Point2D.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Point3D.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Point3D.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Poligon2D.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Poligon2D.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/ReliableMsg.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/ReliableMsg.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/ResourceManager.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/ResourceManager.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/ServerUDP.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/ServerUDP.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Time.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Time.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/UDPConnection.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/UDPConnection.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/UDPSocket.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/UDPSocket.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/Weapon.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/Weapon.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/World.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/World.cpp.o"
-  "/Users/ivanilin/CLionProjects/pseudo3DEngine/main.cpp" "/Users/ivanilin/CLionProjects/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/main.cpp.o"
+  "D:/pseudo3DEngine/src/Bonus.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Bonus.cpp.obj"
+  "D:/pseudo3DEngine/src/Button.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Button.cpp.obj"
+  "D:/pseudo3DEngine/src/Camera.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Camera.cpp.obj"
+  "D:/pseudo3DEngine/src/Circle2D.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Circle2D.cpp.obj"
+  "D:/pseudo3DEngine/src/ClientUDP.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/ClientUDP.cpp.obj"
+  "D:/pseudo3DEngine/src/Enemy.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Enemy.cpp.obj"
+  "D:/pseudo3DEngine/src/GeneticAlgorithm.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/GeneticAlgorithm.cpp.obj"
+  "D:/pseudo3DEngine/src/Menu.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Menu.cpp.obj"
+  "D:/pseudo3DEngine/src/MsgType.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/MsgType.cpp.obj"
+  "D:/pseudo3DEngine/src/NeuralNetwork.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/NeuralNetwork.cpp.obj"
+  "D:/pseudo3DEngine/src/Object2D.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Object2D.cpp.obj"
+  "D:/pseudo3DEngine/src/OptimizedBots.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/OptimizedBots.cpp.obj"
+  "D:/pseudo3DEngine/src/Player.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Player.cpp.obj"
+  "D:/pseudo3DEngine/src/Point2D.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Point2D.cpp.obj"
+  "D:/pseudo3DEngine/src/Point3D.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Point3D.cpp.obj"
+  "D:/pseudo3DEngine/src/Poligon2D.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Poligon2D.cpp.obj"
+  "D:/pseudo3DEngine/src/ReliableMsg.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/ReliableMsg.cpp.obj"
+  "D:/pseudo3DEngine/src/ResourceManager.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/ResourceManager.cpp.obj"
+  "D:/pseudo3DEngine/src/ServerUDP.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/ServerUDP.cpp.obj"
+  "D:/pseudo3DEngine/src/Time.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Time.cpp.obj"
+  "D:/pseudo3DEngine/src/UDPConnection.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/UDPConnection.cpp.obj"
+  "D:/pseudo3DEngine/src/UDPSocket.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/UDPSocket.cpp.obj"
+  "D:/pseudo3DEngine/src/Weapon.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/Weapon.cpp.obj"
+  "D:/pseudo3DEngine/src/World.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/World.cpp.obj"
+  "D:/pseudo3DEngine/src/main.cpp" "D:/pseudo3DEngine/cmake-build-debug/CMakeFiles/FPSOnline.dir/src/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "SFML_STATIC"
+  )
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/include"
   )
 
 # Targets to which this target links.
